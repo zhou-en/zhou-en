@@ -14,11 +14,11 @@ const zhou-en = {
             python: ["Django", "Flask", "FaskAPI"],
             go: []
         },
-        scraping: ["selenium", "scrapy", "spider"]
-        testing: ["Robot Framework"]
+        scraping: ["selenium", "scrapy", "spider"],
+        testing: ["Robot Framework"],
         devOps: ["AWS", "Docker🐳", "GCP", "Nginx"],
         databases: ["mongo", "postgresql", "sqlite"],
-        misc: ["Firebase", "Robot Framework"]
+        misc: ["Firebase", "Heroku"]
     },
     architecture: ["Event Driven Architecture", "Microservices"],
     currentFocus: ["Temporal", "Rust"],
