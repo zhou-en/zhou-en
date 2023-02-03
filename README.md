@@ -22,7 +22,7 @@ const zhou-en = {
     },
     architecture: ["Event Driven Architecture", "Microservices"],
     currentFocus: ["Temporal", "Rust"],
-    funFact: "No code is the best code!"
+    funFact: "It's not a bug, it's a feature!"
 };
 ```
 ---
