@@ -3,7 +3,7 @@
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me...  
-
+<!--
 ```javascript
 const zhou-en = {
     pronouns: "He" | "Him",
@@ -25,6 +25,32 @@ const zhou-en = {
     funFact: "It's not a bug, it's a feature!"
 };
 ```
+  -->
+
+```go
+switch zhou-en {
+    case "pronouns":
+        return "He | Him"
+    case "code":
+        return "Python, Go, TypeScript, Rust"
+    case "askMeAbout":
+        return "web dev, tech, api, photography, basketball"
+    case "backEnd Frameworks":
+        return "Django, Flask, FaskAPI, Temporal"
+    case "testing":
+        return "TDD, BDD, Robot Framework, pytest"
+    case "devOps":
+        return "AWS, GCP, Docker"
+    case "database":
+        return "MongoDB, PostgreSQL, Sqlit"
+    default:
+        return "It's not a bug, it's a feature!"
+}
+```
+
+
+
+
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2053%20mins-blue)
