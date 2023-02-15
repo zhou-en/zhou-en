@@ -7,7 +7,7 @@
 ```javascript
 const zhou-en = {
     pronouns: "He" | "Him",
-    title: ["Pythonista", "Gopher", "Rustacean"],
+    title: "Pythonista" | "Gopher" | "Rustacean",
     code: ["Python", "Go", "Rust", "TypeScript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
@@ -32,6 +32,8 @@ const zhou-en = {
 switch zhou-en {
     case "pronouns":
         return "He | Him"
+    case "title":
+        return "Pythonista | Gopher | Rustacean"
     case "code":
         return "Python, Go, TypeScript, Rust"
     case "askMeAbout":
