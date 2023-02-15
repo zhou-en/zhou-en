@@ -6,7 +6,7 @@
 <!--
 ```javascript
 const zhou-en = {
-    title: "Pythonista | Gopher | Rustacean"
+    title: "Pythonista | Gopher | Rustacean",
     pronouns: "He" | "Him",
     code: ["Python", "Go", "TypeScript", "Rust"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
