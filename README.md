@@ -6,8 +6,8 @@
 <!--
 ```javascript
 const zhou-en = {
-    title: "Pythonista" | "Gopher" | "Rustacean",
     pronouns: "He" | "Him",
+    title: ["Pythonista", "Gopher", "Rustacean"],
     code: ["Python", "Go", "Rust", "TypeScript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
