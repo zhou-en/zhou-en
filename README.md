@@ -2,10 +2,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me...  
+### A little more about me... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 <!--
 ```javascript
 const zhou-en = {
+    title: "Pythonista | Gopher | Rustacean"
     pronouns: "He" | "Him",
     code: ["Python", "Go", "TypeScript", "Rust"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -16,7 +17,7 @@ const zhou-en = {
         },
         scraping: ["selenium", "scrapy", "spider"],
         testing: ["Robot Framework"],
-        devOps: ["AWS", "Docker🐳", "GCP", "Nginx"],
+        devOps: ["AWS", "Docker", "GCP", "Nginx"],
         databases: ["mongo", "postgresql", "sqlite"],
         misc: ["Firebase", "Heroku"]
     },
