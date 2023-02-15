@@ -6,9 +6,9 @@
 <!--
 ```javascript
 const zhou-en = {
-    title: "Pythonista | Gopher | Rustacean",
+    title: "Pythonista" | "Gopher" | "Rustacean",
     pronouns: "He" | "Him",
-    code: ["Python", "Go", "TypeScript", "Rust"],
+    code: ["Python", "Go", "Rust", "TypeScript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
