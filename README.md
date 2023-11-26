@@ -60,8 +60,6 @@ switch zhou-en {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -87,5 +85,5 @@ Mac                      13 hrs 13 mins      ███████████�
 ```
 
 
- Last Updated on 25/11/2023 01:08:30 UTC
+ Last Updated on 26/11/2023 01:15:06 UTC
 <!--END_SECTION:waka-->
