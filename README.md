@@ -60,10 +60,32 @@ switch zhou-en {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Regina
+
+💬 Programming Languages: 
+Python                   5 hrs 37 mins       ███████████████░░░░░░░░░░   59.48 % 
+Go                       3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+
+🔥 Editors: 
+PyCharm                  5 hrs 8 mins        ██████████████░░░░░░░░░░░   54.38 % 
+GoLand                   3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
+IntelliJ                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+
+💻 Operating System: 
+Mac                      9 hrs 26 mins       █████████████████████████   99.62 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+```
 
 
- Last Updated on 07/12/2023 01:11:52 UTC
+ Last Updated on 08/12/2023 01:12:32 UTC
 <!--END_SECTION:waka-->
