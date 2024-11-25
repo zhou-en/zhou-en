@@ -60,9 +60,9 @@ switch zhou-en {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C864%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,15 +77,14 @@ HTML                     10 mins             ░░░░░░░░░░░�
 Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-GoLand                   14 hrs 18 mins      ██████████████████████░░░   86.01 % 
+GoLand                   14 hrs 18 mins      ██████████████████████░░░   86.02 % 
 PyCharm                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 WebStorm                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
 Mac                      16 hrs 38 mins      █████████████████████████   100.00 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 24/11/2024 01:46:02 UTC
+ Last Updated on 25/11/2024 01:42:48 UTC
 <!--END_SECTION:waka-->
