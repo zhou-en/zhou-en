@@ -60,30 +60,10 @@ switch zhou-en {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C955%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C958%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Regina
-
-💬 Programming Languages: 
-Go                       13 hrs 28 mins      ███████████████████████░░   90.48 % 
-Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🔥 Editors: 
-GoLand                   13 hrs 36 mins      ███████████████████████░░   91.33 % 
-PyCharm                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-
-💻 Operating System: 
-Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/01/2025 01:40:29 UTC
+ Last Updated on 07/01/2025 01:37:13 UTC
 <!--END_SECTION:waka-->
