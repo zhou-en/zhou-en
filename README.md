@@ -2,38 +2,20 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm En <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">It’s not a bug, it’s an undocumented feature with personality!</h2>
 
+Software Engineer at [Vendasta](https://www.vendasta.com), based in Saskatoon. I build backend services in Go and Python, with TypeScript on the frontend, and I write Rust for my own tools.
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+### Featured projects
 
+- **[ezpdf](https://github.com/zhou-en/ez-pdf)** (Rust): a fast, lossless PDF tool as a CLI and a native desktop app. Merge, split, rotate, watermark, and edit metadata without re-encoding. [Website](https://ezpdf-web.vercel.app)
+- **[Turf Portal](https://github.com/zhou-en/turf_portal)** (Python, Django): manages orders, invoices, products, buyers, and stock for a turf business. [Live demo](https://turf-portal.vercel.app)
+- **[idev](https://github.com/zhou-en/idev)** (Go): command-line tools for everyday development work.
+- **[ray-tracer-go](https://github.com/zhou-en/ray-tracer-go)** (Go): a ray tracer written from scratch.
 
-### A little more about me... 
-<!--
-```javascript
-const zhou-en = {
-    pronouns: "He" | "Him",
-    title: "Pythonista" | "Gopher" | "Rustacean",
-    code: ["Python", "Go", "Rust", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            python: ["Django", "Flask", "FaskAPI"],
-            go: []
-        },
-        scraping: ["selenium", "scrapy", "spider"],
-        testing: ["Robot Framework"],
-        devOps: ["AWS", "Docker", "GCP", "Nginx"],
-        databases: ["mongo", "postgresql", "sqlite"],
-        misc: ["Firebase", "Heroku"]
-    },
-    architecture: ["Event Driven Architecture", "Microservices"],
-    currentFocus: ["Temporal", "Rust"],
-    funFact: "It's not a bug, it's a feature!"
-};
-```
-  -->
+### A little more about me...
 
 ```go
-switch zhou-en {
+func aboutMe(topic string) string {
+    switch topic {
     case "pronouns":
         return "He | Him"
     case "title":
@@ -42,21 +24,23 @@ switch zhou-en {
         return "Python, Go, TypeScript, Rust"
     case "askMeAbout":
         return "web dev, tech, api, photography, basketball"
-    case "backEnd Frameworks":
-        return "Django, Flask, FaskAPI, Temporal"
+    case "backEndFrameworks":
+        return "Django, Flask, FastAPI, Temporal"
     case "testing":
         return "TDD, BDD, Robot Framework, pytest"
     case "devOps":
         return "AWS, GCP, Docker"
     case "database":
-        return "MongoDB, PostgreSQL, Sqlit"
+        return "MongoDB, PostgreSQL, SQLite"
     default:
-        return "It's not a bug, it's a feature!"
+        return "Ask me on LinkedIn!"
+    }
 }
 ```
 
+### Contact
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zhou--en-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/zhou-en)
 
 ---
 <!--START_SECTION:waka-->
