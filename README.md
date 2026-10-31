@@ -50,46 +50,45 @@ func aboutMe(topic string) string {
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Other                    49 hrs 39 mins      ██████████████████░░░░░░░   71.97 % 
-Markdown                 9 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Go                       4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Python                   1 hr 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    56 hrs 37 mins      ██████████████░░░░░░░░░░░   57.92 % 
+Markdown                 21 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Go                       10 hrs 31 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+JSON                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editors: 
-Claude Code              68 hrs 45 mins      █████████████████████████   99.64 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude Code              97 hrs 7 mins       █████████████████████████   99.35 % 
+VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      68 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      97 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 68 hrs 59 mins (99.98%)
+⏱ AI Coding Time: 97 hrs 40 mins (99.91%)
 
-✍️ 10,329 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 19,340 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 42,760,444 Input Tokens, 4,719,018 Output Tokens
+🔤 58,769,458 Input Tokens, 7,066,780 Output Tokens
 
-💵 $575.50 Estimated AI Cost This Week
+💵 $799.92 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 1388 AI Prompts
+🧠 183 AI Sessions, 1988 AI Prompts
 
-Opus                     10,404 lines        █████████████████████████   98.35 % 
-Fable                    170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Sonnet                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Opus                     19,312 lines        █████████████████████████   99.10 % 
+Fable                    170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Sonnet                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,010 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 4,938 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 04:19:17 UTC
+ Last Updated on 31/10/2026 03:58:55 UTC
 <!--END_SECTION:waka-->
