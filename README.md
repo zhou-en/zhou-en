@@ -50,42 +50,21 @@ func aboutMe(topic string) string {
 🕑︎ Time Zone: America/Regina
 
 💬 Programming Languages: 
-Text                     0 secs              ██████████████░░░░░░░░░░░   55.57 % 
-Markdown                 0 secs              ██████████░░░░░░░░░░░░░░░   38.24 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              0 secs              ████████████████████████░   96.89 % 
-PyCharm                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 333,886 Input Tokens, 3,060 Output Tokens
-
-💵 $1.54 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 1 AI Prompts
-
-Opus                     2 lines             █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/11/2026 06:56:39 UTC
+ Last Updated on 26/11/2026 06:47:47 UTC
 <!--END_SECTION:waka-->
